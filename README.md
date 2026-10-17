@@ -1,2 +1,3 @@
 # AGRO-DATA
 data for learning
+FOR MACHINE LEARNING
